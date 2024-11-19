@@ -32,7 +32,7 @@
 </div>
 <hr>
 <p align="left">
-<a href="https://linkedin.com/in/david adole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david adole" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/david-adole-887057304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david adole" height="30" width="40" /></a>
 <a><img src="https://img.icons8.com/?size=100&id=37375&format=png&color=000000" height="2" width="2"></a>
 <a href="https://hashnode.com/@enencheje" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png&color=000000" alt="@enencheje" height="30" width="30" /></a>
 </p>
