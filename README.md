@@ -34,8 +34,8 @@
 </div>
 <hr>
 <p align="left">
-<a href="https://linkedin.com/in/david-adole-887057304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david adole" height="30" width="40" /></a>
-<a href="https://x.com/willy_wonka_28" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="willy_wonkak_28" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/david-adole-887057304" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david adole" height="30" width="40" /></a>
+<a href="https://x.com/willy_wonka_28" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="willy_wonkak_28" height="40" width="40" /></a>
 <a><img src="https://img.icons8.com/?size=100&id=37375&format=png&color=000000" height="2" width="2"></a>
-<a href="https://hashnode.com/@enenche" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png&color=000000" alt="@enenche" height="30" width="30" /></a>
+<a href="https://hashnode.com/@enenche" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png&color=000000" alt="@enenche" height="30" width="30" /></a>
 </p>
