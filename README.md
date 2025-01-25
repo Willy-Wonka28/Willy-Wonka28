@@ -5,7 +5,7 @@
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" height="40" />
-</a>
+  </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5" height="40" />
 </a>
@@ -18,6 +18,9 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" height="40" />
 </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="nextjs" height="40" />
+</a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="bootstrap" height="40" />
 </a>
@@ -29,7 +32,7 @@
 <h3 align="left">Articles</h3>
 <div align="left"> 
  <a href="https://willywonka28.hashnode.dev/magna-carta-a-lucid-definition-of-web-5"><p>Magna carta: A lucid definition of Web 5</p></a>
-  <a href=https://willywonka28.hashnode.dev/reacting-usestate-web-5"><p>Reacting ⚛️ : The useState Hook</p></a>
+  <a href=https://willywonka28.hashnode.dev/reacting-usestate><p>Reacting ⚛️ : The useState Hook</p></a>
   <a href="https://willywonka28.hashnode.dev/sankofa-to-all-the-africans"><p>Sankofa: To all the Africans. A call for creative and authentic thinking</p></a>
   <a href="https://willywonka28.hashnode.dev/journey-to-nought"><p>Journey To Nought ?</p></a>
 </div>
