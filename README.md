@@ -1,5 +1,5 @@
 <h1 align="left">🎩 Willy-Wonka28</h1>
-<h3 align="left">I'm a front-end web developer and python programmer looking to use my skills to proffer creative solutions to diverse problems. From designing to coding, I ensure that the final product is as conceptualized.</h3>
+<h3 align="left">I'm a web developer and python programmer looking to use my skills to proffer creative solutions to diverse problems. From designing to coding, I ensure that the final product is as conceptualized.</h3>
 <hr>
 <h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left"> 
