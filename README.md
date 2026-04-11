@@ -33,7 +33,7 @@
 ## 🛠️ some personal projects
 
 - **Uninav** *(ongoing)*  
-  centralized academic resource hub scaling across university systems
+  centralized academic resource hub scaling across university systems (**500+** users)
 
 - **Sling** *(discontinued)*  
   api-first leaderboard system for web3 trading competitions
