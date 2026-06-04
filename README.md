@@ -2,6 +2,7 @@
 
 🦇 resident superhero  
 ⚡ full-stack dev exploring **DeFi & prediction markets**  
+🏆 5x Hackathon Winner
 🧠 endlessly curious — blockchain, AI, data science  
 
 > I build things, break things, learn fast, repeat.
