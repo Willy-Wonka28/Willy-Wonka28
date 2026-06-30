@@ -33,7 +33,7 @@
 
 ## 🛠️ some personal projects
 
-- [**Uninav**](https://uninav.live/) *(ongoing)*  
+- [**Uninav**](https://uninav.tech/) *(ongoing)*  
   centralized academic resource hub scaling across university systems (**500+** users)
 
 - **Sling** *(discontinued)*  
