@@ -3,7 +3,7 @@
 🦇 resident superhero  
 ⚡ backend dev — low-level systems, finance infra, prediction markets  
 🏆 5x Hackathon Winner  
-🧠 endlessly curious — quant, DeFi, NLP  
+🧠 endlessly curious — quant, DeFi  
 
 > I build things, break things, learn fast, repeat.
 
@@ -39,11 +39,11 @@
 - [**Uninav**](https://uninav.tech/) *(ongoing)*  
   centralized academic resource hub — 10,000+ visitors, 500+ users across 3 departments
   
-- [**LOKI**](https://github.com/Willy-Wonka28/loki) 
-  C++ Smart Order Router inspired by IEX THOR — latency-normalized order splitting across 4 simulated exchanges, Mersenne Twister allocation engine, nanosecond-precision execution measurement
+- [**LOKI**](https://github.com/Willy-Wonka28/loki)  
+C++ Smart Order Router inspired by IEX THOR — latency-normalized order splitting across 4 simulated exchanges, Mersenne Twister allocation engine, nanosecond-precision execution measurement
 
 - **Sling** *(discontinued)*  
-  api-first leaderboard system for web3 trading competitions
+api-first leaderboard system for web3 trading competitions
 
 - **Direct** *(discontinued)*  
   non-custodial crypto → fiat off-ramp with real-time settlement
