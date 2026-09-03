@@ -1,9 +1,9 @@
 # Hola, I'm Enenche
 
 🦇 resident superhero  
-⚡ full-stack dev exploring **DeFi & prediction markets**  
+⚡ backend dev — low-level systems, finance infra, prediction markets  
 🏆 5x Hackathon Winner  
-🧠 endlessly curious — blockchain, AI, data science  
+🧠 endlessly curious — quant, DeFi, NLP  
 
 > I build things, break things, learn fast, repeat.
 
@@ -11,30 +11,36 @@
 
 ## ⚙️ stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
 
 ---
 
 ## 🚧 currently
 
+- **Backend Engineer @ [Meal365](https://getmeal365.com)** — recommendation systems, async pipelines
 - diving deeper into **DeFi systems & prediction markets**
 - researching intersections of **AI × blockchain**
-- freelancing & building experimental products
-- exploring better ways to ship fast + validate ideas (#agenticengineering lol)
 
 ---
 
 ## 🛠️ some personal projects
 
 - [**Uninav**](https://uninav.tech/) *(ongoing)*  
-  centralized academic resource hub scaling across university systems (**500+** users)
+  centralized academic resource hub — 10,000+ visitors, 500+ users across 3 departments
+  
+- [**LOKI**](https://github.com/Willy-Wonka28/loki) 
+  C++ Smart Order Router inspired by IEX THOR — latency-normalized order splitting across 4 simulated exchanges, Mersenne Twister allocation engine, nanosecond-precision execution measurement
 
 - **Sling** *(discontinued)*  
   api-first leaderboard system for web3 trading competitions
