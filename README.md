@@ -1,52 +1,20 @@
 # Hola, I'm Enenche
 
-🦇 resident superhero  
-⚡ backend dev — low-level systems, finance infra, prediction markets  
-🏆 5x Hackathon Winner  
-🧠 endlessly curious — quant, DeFi  
-
-> I build things, break things, learn fast, repeat.
+🦇 resident superhero &nbsp;·&nbsp; 🏆 5x Hackathon Winner &nbsp;·&nbsp; 🧠 endlessly curious &nbsp;·&nbsp; 👷‍♂️ builder of cool stuff
 
 ---
 
-## ⚙️ stack
+## 🖼️ project museum
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+[**Sling**](#) — api-first leaderboard system for web3 trading competitions. 1st place in global hackathon out of ~17,000 participants
 
+[**Uninav**](https://uninav.tech/) — centralized academic resource hub for university students. 10k+ visitors, 500+ users
 
----
+[**Direct**](#) — crypto → fiat off-ramp with atomic settlement
 
-## 🚧 currently
+[**Meal365 Engine**](https://www.getmeal365.com/) — personalized meal recommendation engine. trended on major app stores
 
-- **Backend Engineer @ [Meal365](https://getmeal365.com)** — recommendation systems, async pipelines
-- diving deeper into **DeFi systems & prediction markets**
-- researching intersections of **AI × blockchain**
-
----
-
-## 🛠️ some personal projects
-
-- [**Uninav**](https://uninav.tech/) *(ongoing)*  
-  centralized academic resource hub — 10,000+ visitors, 500+ users across 3 departments
-  
-- [**LOKI**](https://github.com/Willy-Wonka28/loki)  
-C++ Smart Order Router inspired by IEX THOR — latency-normalized order splitting across 4 simulated exchanges, Mersenne Twister allocation engine, nanosecond-precision execution measurement
-
-- **Sling** *(discontinued)*  
-api-first leaderboard system for web3 trading competitions
-
-- **Direct** *(discontinued)*  
-  non-custodial crypto → fiat off-ramp with real-time settlement
+[**Bayse Portal Bot**](#) — telegram bot for BayseMarkets traders.
 
 ---
 
