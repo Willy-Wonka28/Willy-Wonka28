@@ -10,9 +10,9 @@
 
 [**Uninav**](https://uninav.tech/) — centralized academic resource hub for university students. 10k+ visitors, 500+ users
 
-[**Direct**](#) — crypto → fiat off-ramp with atomic settlement
+[**Meal365 Engine**](https://www.getmeal365.com/) — personalized meal recommendation engine. 1k+ users. trended on major app stores
 
-[**Meal365 Engine**](https://www.getmeal365.com/) — personalized meal recommendation engine. trended on major app stores
+[**Direct**](#) — crypto → fiat off-ramp with atomic settlement
 
 [**Bayse Portal Bot**](#) — telegram bot for BayseMarkets traders.
 
