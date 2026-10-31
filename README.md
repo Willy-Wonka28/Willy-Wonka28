@@ -12,9 +12,9 @@
 
 [**Meal365 Engine**](https://www.getmeal365.com/) — personalized meal recommendation engine. 1k+ users. trended on major app stores
 
-[**Direct**](#) — crypto → fiat off-ramp with atomic settlement
+[**Bayse Portal Bot**](#) — telegram bot for BayseMarkets traders. 34 users.
 
-[**Bayse Portal Bot**](#) — telegram bot for BayseMarkets traders.
+[**Direct**](#) — crypto → fiat off-ramp with atomic settlement
 
 ---
 
