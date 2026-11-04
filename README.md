@@ -4,6 +4,12 @@
 
 ---
 
+I love bringing ideas to reality; coding is just one of the tools I use to get there. been at it since I was a kid: started with Scratch, shipped a game, messed around with Python, and kept going. 
+
+here's some of what I've built:
+
+---
+
 ## 🖼️ project museum
 
 [**Sling**](#) — api-first leaderboard system for web3 trading competitions. 1st place in global hackathon out of ~17,000 participants
@@ -15,6 +21,10 @@
 [**Bayse Portal Bot**](#) — telegram bot for BayseMarkets traders. 34 users.
 
 [**Direct**](#) — crypto → fiat off-ramp with atomic settlement
+
+---
+
+if you have something worth building, [let's talk](https://x.com/willy_wonka_28). currently open to internship opportunities.
 
 ---
 
