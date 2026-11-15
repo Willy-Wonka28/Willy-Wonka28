@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="1100" viewBox="0 0 180 1100">
+  <title>Layered flying bat swarm — right border</title>
+  <defs>
+    <path id="bat" d="M0 0 L-13 -17 L-17 -3 C-34 -18 -48 -22 -67 -17 C-54 -9 -47 0 -43 12 C-39 5 -32 2 -25 6 C-18 11 -13 17 -7 23 L0 17 L7 23 C13 17 18 11 25 6 C32 2 39 5 43 12 C47 0 54 -9 67 -17 C48 -22 34 -18 17 -3 L13 -17 L0 0 Z"/>
+  </defs>
+  <g fill="#000000" stroke="#55aaff" stroke-width="1.15" stroke-linejoin="miter" paint-order="stroke fill">
+    <use href="#bat" transform="translate(119 28) rotate(18) scale(.68)" opacity=".7"/>
+    <use href="#bat" transform="translate(49 92) rotate(-21) scale(.96)" opacity=".95"/>
+    <use href="#bat" transform="translate(145 151) rotate(8) scale(.5)" opacity=".42"/>
+    <use href="#bat" transform="translate(78 211) rotate(29) scale(.83)" opacity=".85"/>
+    <use href="#bat" transform="translate(151 271) rotate(-17) scale(.72)" opacity=".72"/>
+    <use href="#bat" transform="translate(38 329) rotate(11) scale(1.08)" opacity=".96"/>
+    <use href="#bat" transform="translate(111 389) rotate(-25) scale(.56)" opacity=".5"/>
+    <use href="#bat" transform="translate(54 451) rotate(15) scale(.91)" opacity=".92"/>
+    <use href="#bat" transform="translate(146 514) rotate(21) scale(.76)" opacity=".78"/>
+    <use href="#bat" transform="translate(75 573) rotate(-9) scale(1.1)" opacity=".98"/>
+    <use href="#bat" transform="translate(26 637) rotate(-28) scale(.55)" opacity=".48"/>
+    <use href="#bat" transform="translate(131 698) rotate(14) scale(.98)" opacity=".91"/>
+    <use href="#bat" transform="translate(54 760) rotate(-18) scale(.7)" opacity=".7"/>
+    <use href="#bat" transform="translate(151 821) rotate(5) scale(.9)" opacity=".9"/>
+    <use href="#bat" transform="translate(83 882) rotate(25) scale(.58)" opacity=".56"/>
+    <use href="#bat" transform="translate(35 946) rotate(-12) scale(1.04)" opacity=".95"/>
+    <use href="#bat" transform="translate(132 1004) rotate(19) scale(.72)" opacity=".76"/>
+    <use href="#bat" transform="translate(65 1071) rotate(-24) scale(.92)" opacity=".9"/>
+  </g>
+  <g fill="#000000" stroke="#55aaff" stroke-width=".8" stroke-linejoin="miter" paint-order="stroke fill" opacity=".48">
+    <use href="#bat" transform="translate(19 166) rotate(12) scale(.3)"/>
+    <use href="#bat" transform="translate(165 350) rotate(-13) scale(.32)"/>
+    <use href="#bat" transform="translate(18 548) rotate(19) scale(.3)"/>
+    <use href="#bat" transform="translate(165 740) rotate(7) scale(.35)"/>
+    <use href="#bat" transform="translate(18 908) rotate(-20) scale(.3)"/>
+</g>
+</svg>

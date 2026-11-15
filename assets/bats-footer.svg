@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="310" viewBox="0 0 1400 310">
+  <title>Dense rising swarm of flying bats — footer</title>
+  <defs>
+    <path id="bat" d="M0 0 L-13 -17 L-17 -3 C-34 -18 -48 -22 -67 -17 C-54 -9 -47 0 -43 12 C-39 5 -32 2 -25 6 C-18 11 -13 17 -7 23 L0 17 L7 23 C13 17 18 11 25 6 C32 2 39 5 43 12 C47 0 54 -9 67 -17 C48 -22 34 -18 17 -3 L13 -17 L0 0 Z"/>
+  </defs>
+  <g fill="#000000" stroke="#55aaff" stroke-width="1.25" stroke-linejoin="miter" paint-order="stroke fill">
+    <use href="#bat" transform="translate(35 284) rotate(-8) scale(1.6)" opacity=".98"/>
+    <use href="#bat" transform="translate(155 258) rotate(18) scale(1.2)" opacity=".94"/>
+    <use href="#bat" transform="translate(275 286) rotate(-17) scale(1.55)" opacity=".98"/>
+    <use href="#bat" transform="translate(402 248) rotate(12) scale(1.05)" opacity=".82"/>
+    <use href="#bat" transform="translate(520 278) rotate(-11) scale(1.45)" opacity=".97"/>
+    <use href="#bat" transform="translate(645 250) rotate(23) scale(1.1)" opacity=".88"/>
+    <use href="#bat" transform="translate(770 282) rotate(-16) scale(1.58)" opacity=".98"/>
+    <use href="#bat" transform="translate(900 250) rotate(14) scale(1.12)" opacity=".9"/>
+    <use href="#bat" transform="translate(1025 282) rotate(-8) scale(1.52)" opacity=".98"/>
+    <use href="#bat" transform="translate(1150 252) rotate(20) scale(1.12)" opacity=".9"/>
+    <use href="#bat" transform="translate(1280 280) rotate(-13) scale(1.5)" opacity=".97"/>
+    <use href="#bat" transform="translate(1380 254) rotate(12) scale(1.1)" opacity=".88"/>
+    <use href="#bat" transform="translate(95 183) rotate(14) scale(.78)" opacity=".76"/>
+    <use href="#bat" transform="translate(225 164) rotate(-19) scale(.88)" opacity=".86"/>
+    <use href="#bat" transform="translate(350 193) rotate(8) scale(.68)" opacity=".66"/>
+    <use href="#bat" transform="translate(475 153) rotate(-15) scale(.94)" opacity=".88"/>
+    <use href="#bat" transform="translate(600 185) rotate(19) scale(.76)" opacity=".76"/>
+    <use href="#bat" transform="translate(720 145) rotate(-8) scale(.9)" opacity=".86"/>
+    <use href="#bat" transform="translate(845 184) rotate(16) scale(.75)" opacity=".74"/>
+    <use href="#bat" transform="translate(970 150) rotate(-21) scale(.92)" opacity=".87"/>
+    <use href="#bat" transform="translate(1095 187) rotate(10) scale(.72)" opacity=".72"/>
+    <use href="#bat" transform="translate(1220 154) rotate(-14) scale(.9)" opacity=".85"/>
+    <use href="#bat" transform="translate(1340 187) rotate(17) scale(.76)" opacity=".75"/>
+  </g>
+  <g fill="#000000" stroke="#55aaff" stroke-width=".9" stroke-linejoin="miter" paint-order="stroke fill" opacity=".58">
+    <use href="#bat" transform="translate(165 92) rotate(-13) scale(.42)"/>
+    <use href="#bat" transform="translate(315 115) rotate(21) scale(.36)"/>
+    <use href="#bat" transform="translate(505 78) rotate(-8) scale(.45)"/>
+    <use href="#bat" transform="translate(680 103) rotate(17) scale(.4)"/>
+    <use href="#bat" transform="translate(855 75) rotate(-19) scale(.44)"/>
+    <use href="#bat" transform="translate(1035 108) rotate(9) scale(.38)"/>
+    <use href="#bat" transform="translate(1205 78) rotate(-12) scale(.45)"/>
+  </g>
+</svg>
